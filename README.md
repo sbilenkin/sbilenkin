@@ -18,7 +18,7 @@ Full-time software engineering roles on or near the East Coast.
 
 **Tools:** Git · Vite
 
-### 📫 Get in touch
+### Get in touch
  
 - **LinkedIn:** [linkedin.com/in/sadie-bilenkin](https://linkedin.com/in/sadie-bilenkin)
 - **Email:** sadiebilenkin@gmail.com

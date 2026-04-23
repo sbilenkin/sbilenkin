@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sadie
 
-<!--
-**sbilenkin/sbilenkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer building with React, TypeScript, and AWS.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building **Kindred Reels**, a video generation platform with a React/TypeScript/Tailwind frontend and a serverless AWS backend. On the side I do freelance work at VG Controls, updating a live web dashboard for an embedded system using React.js and Lua Server Pages.
+
+### What I'm looking for
+
+Full-time software engineering roles on or near the East Coast.
+
+### Tech I use daily
+
+**Frontend:** React · TypeScript · Tailwind CSS
+
+**Backend:** Node.js · AWS Lambda · API Gateway · DynamoDB
+
+**Tools:** Git · Vite
+
+### 📫 Get in touch
+ 
+- **LinkedIn:** [linkedin.com/in/sadie-bilenkin](https://linkedin.com/in/sadie-bilenkin)
+- **Email:** sadiebilenkin@gmail.com
